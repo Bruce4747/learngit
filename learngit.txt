@@ -7,4 +7,8 @@ Git has a mutable index called stage.
 
 create a new branch dev!
 
+<<<<<<< HEAD
 主分支修改
+=======
+测试冲突分支。
+>>>>>>> feature1
